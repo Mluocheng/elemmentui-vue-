@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
-
+先 npm 安装vue工程 和elementui
 ``` bash
 # install dependencies
 npm install
